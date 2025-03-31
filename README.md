@@ -23,5 +23,5 @@ This repository contains a Streamlit web application that forecasts sales and id
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/sales-forecasting-fastest-item-prediction.git
+   git clone https://github.com/messlem99/sales-forecasting-fastest-item-prediction.git
    cd sales-forecasting-fastest-item-prediction
